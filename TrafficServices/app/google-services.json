@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "300273158093",
+    "firebase_url": "https://login-304ac.firebaseio.com",
+    "project_id": "login-304ac",
+    "storage_bucket": "login-304ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300273158093:android:dfe419255861b89b",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300273158093-46853im123llp7obk8t4an62c2nkog6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.login",
+            "certificate_hash": "25f254a29b1391240b406f35fb8efb02009ceca6"
+          }
+        },
+        {
+          "client_id": "300273158093-2e3b417ffhk70t6hha5sj6s9at06rgb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHd_FisaVKwyoKJhgzQqJ6MTBhlepM8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300273158093-2e3b417ffhk70t6hha5sj6s9at06rgb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300273158093:android:3bda64104cd8dc25",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.userdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300273158093-tj0u3q41ofalgvr2ind1g1v0rsfcfi9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.userdata",
+            "certificate_hash": "25f254a29b1391240b406f35fb8efb02009ceca6"
+          }
+        },
+        {
+          "client_id": "300273158093-2e3b417ffhk70t6hha5sj6s9at06rgb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHd_FisaVKwyoKJhgzQqJ6MTBhlepM8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300273158093-2e3b417ffhk70t6hha5sj6s9at06rgb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300273158093:android:fad08e53a2ae65a8",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.trafficservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300273158093-5qvrqjn4c2h0kgdc1aa3fc2ldfupm26s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.trafficservices",
+            "certificate_hash": "d6e36dbed87007cb03d1d67bb8632e7e8114c3fe"
+          }
+        },
+        {
+          "client_id": "300273158093-66jr5nuub91id4h5lnpr7ht42bt327gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.trafficservices",
+            "certificate_hash": "25f254a29b1391240b406f35fb8efb02009ceca6"
+          }
+        },
+        {
+          "client_id": "300273158093-2e3b417ffhk70t6hha5sj6s9at06rgb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHd_FisaVKwyoKJhgzQqJ6MTBhlepM8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300273158093-2e3b417ffhk70t6hha5sj6s9at06rgb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
